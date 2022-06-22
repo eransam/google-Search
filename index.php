@@ -19,7 +19,7 @@
 
     <form action="save.php">
 
-        <label>Search</label>
+        <label>Google -it: </label>
 
         <input type="text" name="search" placeholder=" search" required>
 
