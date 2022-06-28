@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css"> dsdsdsd
 </head>
 
 <body>
@@ -19,7 +19,7 @@
 
     <form action="save.php">
 
-        <label>Search</label>
+        <label>Google -it: eran sam </label>
 
         <input type="text" name="search" placeholder=" search" required>
 
